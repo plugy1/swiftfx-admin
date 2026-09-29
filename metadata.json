@@ -1,0 +1,6 @@
+{
+  "name": "SwiftFX Admin",
+  "description": "Mobile-first admin control center for managing SwiftFX crypto-to-mobile-money deposits, withdrawals, exchange rates, and real-time transaction alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
